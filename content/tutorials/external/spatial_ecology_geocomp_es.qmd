@@ -53,4 +53,4 @@ Autor: Giuseppe Amatulli, Yale University / Spatial Ecology
 
 Estos materiales fueron desarrollados como parte del proyecto POSE financiado por la US National Science Foundation (NSF Award 2303651).
 
-![](images/spatial_ecology_geocomp_es.png){.preview-image}
+![](images/spatial_ecology.png){.preview-image}
