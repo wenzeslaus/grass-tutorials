@@ -8,7 +8,7 @@ format:
     code-tools: true
     code-copy: true
     code-fold: false
-categories: [beginner, intermediate, Bash, HPC, hydrology, external, course]
+categories: [advanced, Bash, HPC, hydrology, external, course]
 description: GRASS tutorials for geocomputation, hydrology, species distribution modeling, and HPC.
 execute:
   eval: false
