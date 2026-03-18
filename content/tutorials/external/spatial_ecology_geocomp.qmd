@@ -1,0 +1,55 @@
+---
+title: "Spatial Ecology - Geocomputation with GRASS"
+author: "Giuseppe Amatulli"
+date: 06/19/2025
+format:
+  html:
+    toc: true
+    code-tools: true
+    code-copy: true
+    code-fold: false
+categories: [beginner, intermediate, Bash, HPC, hydrology, external, course]
+description: GRASS tutorials for geocomputation, hydrology, species distribution modeling, and HPC.
+execute:
+  eval: false
+---
+
+# GRASS Introduction
+
+Learn the basics of GRASS including the data structure, command syntax, working environment, mapsets, and region settings using the command line.
+
+<https://spatial-ecology.net/docs/build/html/GRASS/grass_intro.html>
+
+# Start a New GRASS Project
+
+Create a new GRASS project from scratch, import data, and configure the working environment.
+
+<https://spatial-ecology.net/docs/build/html/GRASS/grass_newproject.html>
+
+# Stream-Network Extraction and Basin Delineation
+
+Use GRASS for hydrographic feature extraction at large scales, including tiled flow accumulation, stream network extraction, and basin delineation. Also available as a [Google Colab version](https://spatial-ecology.net/docs/build/html/GRASS/grass_hydro_colab.html).
+
+<https://spatial-ecology.net/docs/build/html/GRASS/grass_hydro.html>
+
+# Species Distribution Modeling with GRASS
+
+Geocomputation for a Random Forest species distribution model using GRASS to prepare environmental predictors and generate predictions.
+
+<https://spatial-ecology.net/docs/build/html/GRASS/SDM1_MWood_gecomp4GRASS.html>
+
+<https://spatial-ecology.net/docs/build/html/GRASS/SDM1_MWood_GRASSmodel.html>
+
+# Use of GRASS in HPC
+
+Set up and run GRASS in a High Performance Computing cluster environment using Bash scripting and the Slurm queuing system.
+
+<https://spatial-ecology.net/docs/build/html/HPC/hpc_setting_grass.html>
+
+Video recording (29 min): <https://youtu.be/4i1Fs29D0-A>
+
+Author: Giuseppe Amatulli, Yale University / Spatial Ecology
+
+These materials were developed as part of the US NSF-funded POSE project (Award 2303651).
+
+![](images/spatial_ecology_geocomp.png){.preview-image}
