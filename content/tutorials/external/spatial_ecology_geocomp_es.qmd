@@ -9,7 +9,7 @@ format:
     code-tools: true
     code-copy: true
     code-fold: false
-categories: [advanced, Bash, HPC, hydrology, external, Spanish]
+categories: [advanced, Bash, HPC, hydrology, external, course, Spanish]
 description: Curso de geocomputación con GRASS en español, incluyendo introducción, hidrología y machine learning.
 execute:
   eval: false
