@@ -15,6 +15,8 @@ execute:
   eval: false
 ---
 
+![](images/spatial_ecology.png){.preview-image}
+
 # Geocomputación para aplicaciones ambientales: uso de GDAL y GRASS
 
 Curso online de 5 semanas con explicaciones en español y material en inglés. El curso incluye tres bloques dedicados a GRASS que cubren introducción, hidrología y machine learning.
@@ -45,12 +47,10 @@ Video: <https://youtu.be/P7bJn_Lbj4A>
 
 Material: <https://spatial-ecology.net/docs/build/html/GRASS/SDM1_MWood_gecomp4GRASS.html>
 
----
-
 Lista completa de videos: <https://www.youtube.com/playlist?list=PL2h1_A_4X7LDPLri1UUA1_5GlRaNfIpE4>
+
+---
 
 Autor: Giuseppe Amatulli, Yale University / Spatial Ecology
 
 Estos materiales fueron desarrollados como parte del proyecto POSE financiado por la US National Science Foundation (NSF Award 2303651).
-
-![](images/spatial_ecology.png){.preview-image}

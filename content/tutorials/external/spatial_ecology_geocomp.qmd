@@ -14,25 +14,31 @@ execute:
   eval: false
 ---
 
-# GRASS Introduction
+![](images/spatial_ecology.png){.preview-image}
+
+The following tutorials were developed as part of the
+[Spatial Ecology courses](https://spatial-ecology.net/training/),
+where students are introduced to an array of powerful open-source geocomputation tools and machine learning methodologies under the Linux environment.
+
+## GRASS Introduction
 
 Learn the basics of GRASS including the data structure, command syntax, working environment, mapsets, and region settings using the command line.
 
 <https://spatial-ecology.net/docs/build/html/GRASS/grass_intro.html>
 
-# Start a New GRASS Project
+## Start a New GRASS Project
 
 Create a new GRASS project from scratch, import data, and configure the working environment.
 
 <https://spatial-ecology.net/docs/build/html/GRASS/grass_newproject.html>
 
-# Stream-Network Extraction and Basin Delineation
+## Stream-Network Extraction and Basin Delineation
 
 Use GRASS for hydrographic feature extraction at large scales, including tiled flow accumulation, stream network extraction, and basin delineation. Also available as a [Google Colab version](https://spatial-ecology.net/docs/build/html/GRASS/grass_hydro_colab.html).
 
 <https://spatial-ecology.net/docs/build/html/GRASS/grass_hydro.html>
 
-# Species Distribution Modeling with GRASS
+## Species Distribution Modeling with GRASS
 
 Geocomputation for a Random Forest species distribution model using GRASS to prepare environmental predictors and generate predictions.
 
@@ -40,7 +46,7 @@ Geocomputation for a Random Forest species distribution model using GRASS to pre
 
 <https://spatial-ecology.net/docs/build/html/GRASS/SDM1_MWood_GRASSmodel.html>
 
-# Use of GRASS in HPC
+## Use of GRASS in HPC
 
 Set up and run GRASS in a High Performance Computing cluster environment using Bash scripting and the Slurm queuing system.
 
@@ -48,8 +54,10 @@ Set up and run GRASS in a High Performance Computing cluster environment using B
 
 Video recording (29 min): <https://youtu.be/4i1Fs29D0-A>
 
+---
+
 Author: Giuseppe Amatulli, Yale University / Spatial Ecology
 
 These materials were developed as part of the US NSF-funded POSE project (Award 2303651).
 
-![](images/spatial_ecology.png){.preview-image}
+
